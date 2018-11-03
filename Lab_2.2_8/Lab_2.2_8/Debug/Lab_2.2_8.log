@@ -1,0 +1,7 @@
+﻿  Main.c
+d:\projects\c++\operating system\lab_2.2_8\lab_2.2_8\main.c(36): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+d:\projects\c++\operating system\lab_2.2_8\lab_2.2_8\main.c(41): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char [512]"
+d:\projects\c++\operating system\lab_2.2_8\lab_2.2_8\main.c(41): warning C4024: tolower: различные типы для формального и фактического параметров 1
+d:\projects\c++\operating system\lab_2.2_8\lab_2.2_8\main.c(41): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "int"
+d:\projects\c++\operating system\lab_2.2_8\lab_2.2_8\main.c(41): warning C4024: strtok: различные типы для формального и фактического параметров 1
+  Lab_2.2_8.vcxproj -> D:\Projects\C++\Operating System\Lab_2.2_8\Debug\Lab_2.2_8.exe

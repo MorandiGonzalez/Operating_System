@@ -1,0 +1,4 @@
+﻿  Main.c
+d:\projects\c++\operating system\lab_2.2_9\lab_2.2_9\main.c(39): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+d:\projects\c++\operating system\lab_2.2_9\lab_2.2_9\main.c(36): warning C4101: out: неиспользованная локальная переменная
+  Lab_2.2_9.vcxproj -> D:\Projects\C++\Operating System\Lab_2.2_9\Debug\Lab_2.2_9.exe

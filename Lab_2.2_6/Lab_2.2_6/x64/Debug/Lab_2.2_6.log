@@ -1,0 +1,3 @@
+﻿  Main.cpp
+d:\projects\c++\operating system\lab_2.2_6\lab_2.2_6\main.cpp(10): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab_2.2_6.vcxproj -> D:\Projects\C++\Operating System\Lab_2.2_6\x64\Debug\Lab_2.2_6.exe

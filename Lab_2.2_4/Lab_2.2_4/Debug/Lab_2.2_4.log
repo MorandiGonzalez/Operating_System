@@ -1,0 +1,4 @@
+﻿  Main.c
+c:\users\misha\source\repos\lab_2.2_4\lab_2.2_4\main.c(10): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\misha\source\repos\lab_2.2_4\lab_2.2_4\main.c(22): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab_2.2_4.vcxproj -> C:\Users\Misha\source\repos\Lab_2.2_4\Debug\Lab_2.2_4.exe
